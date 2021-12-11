@@ -3,6 +3,8 @@ COMP0016- group 37 project blog
 
 Project blog documenting weekly progress.
 
+Link to website: https://preston-tong25.github.io/
+
 
 
 --------
